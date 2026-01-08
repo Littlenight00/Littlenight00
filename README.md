@@ -57,7 +57,7 @@ I work with **Unity (C#)** and **Unreal Engine (C++)**, focusing on **gameplay m
 
 - 📧 Email: **evellyn.sgomes62@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/evellyn-gomes-007349219**
-- - 🌐 Portfolio: **[Coming Soon]**
+- 🌐 Portfolio: **[Coming Soon]**
 
 ---
 
