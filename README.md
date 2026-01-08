@@ -81,9 +81,9 @@ My main interest lies in combining **technical foundations, performance, and gam
 
 ### 📫 How to reach me
 
-- 📧 Email: **seuemail@outlook.com**
+- 📧 Email: **evellyn.sgomes62@gmail.com**
 - 🌐 Portfolio: **[Coming Soon]**
-- 💼 LinkedIn: **[Your LinkedIn here]**
+- 💼 LinkedIn: **www.linkedin.com/in/evellyn-gomes-007349219**
 
 ---
 
