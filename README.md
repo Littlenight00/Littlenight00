@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Evellyn
+  Hi 👋, I'm Evellyn Gomes
 </h1>
 
 <p align="center">
@@ -11,31 +11,19 @@
 
 ### 👩‍💻 About me
 
-I am a **Game Developer** and an **Electrical Engineering student**, with a technical background in **Information Technology from IFSP**.  
-Engineering plays a central role in my education, directly contributing to the development of **logical reasoning, system analysis, and structured problem-solving**, skills that I actively apply to **digital game development**.
+I am a **Game Developer** and **Electrical Engineering student** with a technical background in **Information Technology (IFSP)**.  
+My engineering studies strengthen my **logical thinking, system analysis, and problem-solving**, which I apply directly to **game development**.
 
-I work mainly with **Unity (C#)** and **Unreal Engine (C++)**, focusing on the development of **gameplay mechanics, interactive systems, and clean, well-organized code**.  
-My main interest lies in combining **technical foundations, performance, and game design**, aiming to create **well-structured, functional, and engaging interactive experiences**.
+I work with **Unity (C#)** and **Unreal Engine (C++)**, focusing on **gameplay mechanics, interactive systems, performance, and clean code**.
 
 ---
 
 ### 🚀 Main Focus
 
-- 🎮 Gameplay mechanics and systems
-- 🧠 Logical thinking and system analysis
-- ⚙️ Performance-oriented development
-- 🧩 Clean code and project organization
+- 🎮 Gameplay & game systems  
+- 🧠 Logic & system analysis  
+- ⚙️ Performance & clean code  
 - 🛠️ Unity (C#) & Unreal Engine (C++)
-
----
-
-### 💬 Ask me about
-
-- Unity & C#
-- Unreal Engine & C++
-- Game systems & gameplay mechanics
-- Software architecture & logic
-- Web development fundamentals
 
 ---
 
@@ -51,40 +39,26 @@ My main interest lies in combining **technical foundations, performance, and gam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🎓 Academic & Professional Experience
+### 🎓 Background
 
 - 🎓 Technical Degree in **Information Technology** – IFSP  
-- ⚡ Undergraduate student in **Electrical Engineering** – IFSP  
+- ⚡ **Electrical Engineering** undergraduate – IFSP  
 - 🔬 Scientific Initiation (CNPq)  
-- 💻 Software Developer (Freelancer / Autonomous)  
-- 🧪 Experience with academic and integrative projects (Desktop & Web Systems)
+- 💻 Software Developer (Freelancer)
 
 ---
 
-### 🤝 Soft Skills
-
-- Teamwork & cooperation  
-- Problem-solving  
-- Adaptability  
-- Communication  
-- Organization & responsibility  
-
----
-
-### 📫 How to reach me
+### 📫 Contact
 
 - 📧 Email: **evellyn.sgomes62@gmail.com**
-- 🌐 Portfolio: **[Coming Soon]**
 - 💼 LinkedIn: **www.linkedin.com/in/evellyn-gomes-007349219**
+- - 🌐 Portfolio: **[Coming Soon]**
 
 ---
 
-⭐️ *Game Development driven by engineering logic and structured thinking.*
+⭐️ *Engineering logic applied to game development.*
