@@ -1,64 +1,101 @@
 <h1 align="center">
-  Hi 👋, I'm Evellyn Gomes
+Hi 👋, I'm Evellyn Gomes
 </h1>
 
 <p align="center">
-  🎮 Game Developer | ⚡ Electrical Engineering Student <br>
-  IFSP • Technical Background in Information Technology
+💻 Software Developer • 🤖 Artificial Intelligence • 🎮 Game Development <br>
+⚡ Electrical Engineering & Analysis and Systems Development Student
 </p>
 
 ---
 
-### 👩‍💻 About me
+## 👩‍💻 About Me
 
-I am a **Game Developer** and **Electrical Engineering student** with a technical background in **Information Technology (IFSP)**.  
-My engineering studies strengthen my **logical thinking, system analysis, and problem-solving**, which I apply directly to **game development**.
+I'm an undergraduate student in **Electrical Engineering** and **Analysis and Systems Development (ADS)** with a technical background in **Information Technology**.
 
-I work with **Unity (C#)** and **Unreal Engine (C++)**, focusing on **gameplay mechanics, interactive systems, performance, and clean code**.
+I'm passionate about software engineering, artificial intelligence, and game development. I enjoy designing efficient systems, solving complex problems, and transforming ideas into practical solutions.
 
----
-
-### 🚀 Main Focus
-
-- 🎮 Gameplay & game systems  
-- 🧠 Logic & system analysis  
-- ⚙️ Performance & clean code  
-- 🛠️ Unity (C#) & Unreal Engine (C++)
+Currently, I'm improving my skills in **Artificial Intelligence**, **Machine Learning**, **Unity (C#)**, **Unreal Engine (C++)**, and modern software development practices.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 Areas of Interest
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎮 Gameplay Programming
+- 💻 Software Development
+- 🧠 Algorithms & Data Structures
+- ⚙️ Software Architecture
+- 🚀 Performance Optimization
 
 ---
 
-### 🎓 Background
+## 🛠️ Tech Stack
 
-- 🎓 Technical Degree in **Information Technology** – IFSP  
-- ⚡ **Electrical Engineering** undergraduate – IFSP  
-- 🔬 Scientific Initiation (CNPq)  
-- 💻 Software Developer (Freelancer)
+### Languages
+- C#
+- C++
+- Python
+- Java
+- JavaScript
+- SQL
+
+### AI & Data
+- Python
+- NumPy
+- Pandas
+- Machine Learning (Learning)
+
+### Game Development
+- Unity
+- Unreal Engine
+
+### Web
+- HTML
+- CSS
+
+### Tools
+- Git
+- Visual Studio
+- VS Code
 
 ---
 
-### 📫 Contact
+## 🎓 Education
 
-- 📧 Email: **evellyn.sgomes@outlook.com**
-- 💼 LinkedIn: **www.linkedin.com/in/evellyn-gomes-007349219**
-- 🌐 Portfolio: **[Coming Soon]**
+- ⚡ B.Sc. in Electrical Engineering — IFSP
+- 💻 B.Sc. in Analysis and Systems Development (ADS)
+- 🖥️ Technical Degree in Information Technology — IFSP
 
 ---
 
-⭐️ *Engineering logic applied to game development.*
+## 🔬 Research Experience
+
+**Scientific Initiation (CNPq)**
+
+Research focused on **GNSS data analysis** using RINEX files for space weather studies, applying data analysis, scientific methodology, and computational techniques.
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Unreal Engine 5
+- Design Patterns
+- Software Engineering
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:** evellyn.sgomes@outlook.com
+
+💼 **LinkedIn:** www.linkedin.com/in/evellyn-gomes-007349219
+
+🌐 **Portfolio:** Coming Soon
+
+---
+
+> *Building intelligent software through engineering, artificial intelligence, and game development.*
